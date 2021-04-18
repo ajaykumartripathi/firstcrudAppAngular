@@ -1,0 +1,20 @@
+
+
+
+.wrapper{
+	display:grid;
+	grid-template-columns:252px auto;
+	grid-template-rows:100px 100px;
+}
+
+
+
+/* .sidebar{
+	width:252px;
+	height:1400px;
+	margin-left:0;
+	background:#292841;
+	position:fixed;
+	margin-top: 50px;
+} */
+
